@@ -1,8 +1,12 @@
 {
   "name": "@npm-wearetriple/gulp-sass-tasks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a simple gulp sass task.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meisterplayer/gulp-sass-tasks.git"
+  },  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
